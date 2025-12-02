@@ -12,8 +12,16 @@ We learned about H1, H2, and H3 headers today.
 ![Yaktocat GitHub mascot in traditional Thai warrior attire](https://octodex.github.com/images/yaktocat.png)
 
 ```python
-project = "GitHub Markdown Lab"
+ project = "GitHub Markdown Lab"
 
-print("Welcome! Nice to meet you here.")
-print(f"Time to crush the {project}!")
-print("Good luck! 🚀")
+ print("Welcome! Nice to meet you here.")
+ print(f"Time to crush the {project}!")
+ print("Good luck! 🚀")
+
+### Project To-Do List
+
+- [x] Review Markdown headers in index.md
+- [x] Add image with descriptive alt-text
+- [x] Add a code example with Python
+- [ ] Add a table summarizing Markdown syntax
+- [ ] Merge this Pull Request
